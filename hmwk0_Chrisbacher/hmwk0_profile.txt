@@ -1,0 +1,10 @@
+——Student Profile——
+
+Name: Case Chrisbacher
+
+Major/minor: Computer and Electrical Engineering/ Business
+
+Programming experience: Almost none, a little Arduino
+
+What do you expect to learn in this course?
+I expect to learn the basic fundementals of code
